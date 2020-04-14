@@ -3,12 +3,12 @@ Buku Belajar Dengan Jenius Golang
 
 <img src="cover.png">
 
-##Table of Contents</br>
-##Open Library Indonesia	3</br>
-##Table of Contents	5</br>
-##Chapter 1	18</br>
-##Computer	18</br>
-###Subchapter 1 – Komputer & Pemograman	18</br>
+## Table of Contents</br>
+## Open Library Indonesia	3</br>
+## Table of Contents	5</br>
+## Chapter 1	18</br>
+## Computer	18</br>
+### Subchapter 1 – Komputer & Pemograman	18</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1. Computer Program	20</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2. Computation	20</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3. Computer Organization	20</br>
@@ -37,7 +37,7 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Compiled Language	35</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Interpreted Language	35</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Hybrid Language	35</br>
-###Subchapter 2 – Kompiler & Interpreter	37</br>
+### Subchapter 2 – Kompiler & Interpreter	37</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1. Compiler	37</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Self-hosting Compiler	37</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Assembler	38</br>
@@ -61,9 +61,9 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Object Code	53</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Linker	54</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Loader	54</br>
-##Chapter 2 ✓	55</br>
-##Setup Learning Environment ✓	55</br>
-###Subchapter 1 – Visual Studio Code ✓	55</br>
+## Chapter 2 ✓	55</br>
+## Setup Learning Environment ✓	55</br>
+### Subchapter 1 – Visual Studio Code ✓	55</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1. Install Programming Language Support	58</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2. Install Keybinding	59</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3. Install & Change Theme Editor	61</br>
@@ -85,12 +85,12 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	10. Zen Mode	77</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	11. Display Multiple File	78</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	12. Font Ligature	79</br>
-###Subchapter 2 – Go Lang ✓	82</br>
+### Subchapter 2 – Go Lang ✓	82</br>
 	1. Go Lang Installation	82</br>
 	2. Check Golang Version	83</br>
-##Chapter 3 ✓	84</br>
-##Mastering Go Lang ✓	84</br>
-###Subchapter 1 – Introduction to Go Lang ✓	84</br>
+## Chapter 3 ✓	84</br>
+## Mastering Go Lang ✓	84</br>
+### Subchapter 1 – Introduction to Go Lang ✓	84</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Go is Compiled Language	86</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Static Linking	86</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Go Compiler	87</br>
@@ -99,7 +99,7 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Garbage Collection	88</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Unicode	88</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Go is Multicore Programming	89</br>
-###Subchapter 2 – Setup Go Lang ✓	91</br>
+### Subchapter 2 – Setup Go Lang ✓	91</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Configure GOPATH	91</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Setup GOPATH for Windows	92</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Setup GOPATH for MacOS	92</br>
@@ -111,7 +111,7 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Go Execution	97</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4.	Go Documentation	98</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	5.	Go Playground	99</br>
-###Subchapter 3 – Go Program ✓	100</br>
+### Subchapter 3 – Go Program ✓	100</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Basic Structure	100</br>
 		Package Name	101</br>
 		Imported Package	101</br>
@@ -144,7 +144,7 @@ Buku Belajar Dengan Jenius Golang
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Zero Value	127</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Short-Variable Declaration	127</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Multiple-variable Declaration	128</br>
-###Subchapter 4 – Data Types ✓	129</br>
+### Subchapter 4 – Data Types ✓	129</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Apa itu Data?	129</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2.	Apa itu Types?	130</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Apa itu Data Types?	130</br>
@@ -164,17 +164,17 @@ Buku Belajar Dengan Jenius Golang
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		String to Int	158</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		String to Float	159</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Int to Int64	159</br>
-###Subchapter 5 – Control Flow ✓	161</br>
+### Subchapter 5 – Control Flow ✓	161</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Block Statements	161</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2.	Conditional Statements	162</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Multiconditional Statement	164</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Switch Style	165</br>
-###Subchapter 6 – Loop & Iteration ✓	166</br>
+### Subchapter 6 – Loop & Iteration ✓	166</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	For Statement	167</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2.	Range Statement	170</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Break Statement	172</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	4.	Continue Statement	173</br>
-###Subchapter 7 – Function ✓	174</br>
+### Subchapter 7 – Function ✓	174</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Introduction to Function	174</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			First Class Function	174</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			First-class Citizen	175</br>
@@ -193,7 +193,7 @@ Buku Belajar Dengan Jenius Golang
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Anonymous Function	182</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Closure	183</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Defer	185</br>
-###Subchapter 8 – Error Handling ✓	188</br>
+### Subchapter 8 – Error Handling ✓	188</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Syntax Error	189</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Missing Syntax	189</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Invalid Syntax	190</br>
@@ -203,7 +203,7 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Log Package	194</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Fatal & Exit	196</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	5.	Panic & Recover	197	</br>
-###Subchapter 9 – Composite Types ✓	199</br>
+### Subchapter 9 – Composite Types ✓	199</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Apa itu Pointer?	201</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			De-referencing	201</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Read Memory Address	201</br>
@@ -225,7 +225,7 @@ Buku Belajar Dengan Jenius Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Add Method to Struct	214</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3.	Interface	216</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Evaluation – Learning Metrics	219</br>
-###Subchapter 10 – Data Structure ✓	222</br>
+### Subchapter 10 – Data Structure ✓	222</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1.	Array	223</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Create Fixed-length Array	224</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Create Array with Ellipses	224</br>
