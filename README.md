@@ -6,10 +6,11 @@ description: Sebuah Konsep Untuk Indonesia
 
 ![](.gitbook/assets/2.png)
 
-  
-Sebuah konsep Perpustakaan Digital Terbuka untuk membantu mempermudah siapapun untuk mengakses ilmu pengetahuan. OpenLibrary.id adalah sebuah gerakan dan konsep pemikiran yang penulis usung sebagai wadah tempat untuk mengabdi kepada masyarakat melalui kontribusi karya tulis. Karya tulis yang diharapkan dapat membantu agar minat baca jutaan pemuda-pemudi di Indonesia terus meningkat. Sebab penulis percaya dengan membaca peluang keberhasilan hidup seseorang kedepanya akan menjadi lebih besar dan membaca dapat membawa kita ketempat yang tidak pernah kita sangka-sangka yaitu tempat yang lebih baik dari sebelumnya.
+An Open Digital Library concept to make it easier for anyone to access knowledge. OpenLibrary.id is a movement and concept of thought that the writer uses as a place to serve the community through book contributions. 
 
-Penulis sadar gerakan ini memerlukan penulis-penulis lainya agar tujuanya bisa tercapai dan jangkauan manfaatnya bisa lebih luas lagi. Semakin banyak penulis dari berbagai bidang keilmuan akan semakin berwarna manfaat hasil karya tulis yang bisa diberikan untuk masyarakat. Maka dari itu penulis secara terbuka mengundang siapapun yang ingin bergabung menjadi penulis di gerakan Indonesia Open Library, agar bisa bertemu dan saling bersilaturahmi.
+Book that is expected to help increase reading interest of millions of young people in Indonesia. The authors believe by reading the chances of success in someone life in the future will be greater and reading can take us to a place that we never thought was a better place than before.
 
-_"Orang boleh pandai setinggi langit, tapi selama ia tidak menulis maka ia akan hilang dalam masyarakat dan sejarah"_   - Pramoedya Ananta Toer
+The author is aware that this movement needs other writers to make the goal can be achieved. The more writers from various scientific fields the more colorful book that can be given to the public. Therefore the author openly invites anyone who wishes to join as a writer in the Indonesia Open Library movement.
+
+"One can be clever to the sky, but as long as he does not write he will be lost in society and history" - Pramoedya Ananta Toer
 
