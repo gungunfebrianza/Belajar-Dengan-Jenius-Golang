@@ -1,19 +1,9 @@
 # Table of contents
 
-* [Open Library Indonesia](README.md)
-* [Daftar Isi](daftar-isi/README.md)
-  * [Untitled](daftar-isi/untitled.md)
+* [Untitled](README.md)
 
-## Test
+## Computer
 
-* [Data 1](test/untitled/README.md)
-  * [Untitled](test/untitled/untitled/README.md)
-    * [Untitled](test/untitled/untitled/untitled/README.md)
-      * [Untitled](test/untitled/untitled/untitled/untitled/README.md)
-        * [Untitled](test/untitled/untitled/untitled/untitled/untitled.md)
-* [Untitled](test/untitled-1.md)
-
-## asdsad
-
-* [Untitled](asdsad/untitled.md)
+* [Chapter 1 - Computer](computer/chapter-1-computer/README.md)
+  * [Subchapter 1 – Komputer & Pemograman](computer/chapter-1-computer/subchapter-1-komputer-and-pemograman.md)
 
