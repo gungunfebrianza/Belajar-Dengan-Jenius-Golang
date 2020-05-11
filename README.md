@@ -1,5 +1,7 @@
-# Belajar-Dengan-Jenius-Golang
-Buku Belajar Dengan Jenius Golang
+# Belajar Dengan Jenius Golang
+## Karya : Gun Gun Febrianza
+### Published in 2020
+### Learn Golang on Youtube : [Belajar Golang Bahasa Indonesia](https://www.youtube.com/watch?v=WhO6kJfYeMU)
 
 <img src="cover.png">
 
