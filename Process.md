@@ -2,7 +2,11 @@
 
 ## Definition
 
-**Process** adalah sebuah program yang sedang berjalan di dalam sistem operasi. Setiap **process** memiliki sebuah **address** **space**, daftar lokasi **memory** dari nol sampai nilai maksimum tertentu yang dapat dibaca dan ditulis.
+**Process** adalah sebuah program yang sedang berjalan di dalam sistem operasi. Setiap **process** memiliki sebuah **address** **space**, daftar lokasi **memory** dari nol sampai nilai maksimum tertentu yang dapat dibaca dan ditulis. Setiap **address space** menyimpan **executable program**, **program data** dan **stack**. 
+
+### Multiprogramming System
+
+
 
 Sebuah **process** saat dieksekusi memiliki beberapa karakteristik :
 
@@ -22,16 +26,16 @@ Sebuah **process** saat dieksekusi memiliki beberapa karakteristik :
 
    Alamat dari instruksi selanjutnya dalam program yang akan dieksekusi.
 
-5. Memory Pointers
+5. **Memory Pointers**
 
    
 
-6. Context Data
+6. **Context Data**
 
    
 
-7. I/O Status Information
+7. **I/O Status Information**
 
    
 
-8. Accounting Information
+8. **Accounting Information**
