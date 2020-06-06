@@ -11,5 +11,8 @@ import (
 
 //entrypoint
 func main() {
+	var int data;
+	data = 50;
+	data = “Hello World!”; // causes an compilation error
 	fmt.Println("Hello World!")
 }
