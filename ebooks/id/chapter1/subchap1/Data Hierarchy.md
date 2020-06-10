@@ -89,5 +89,9 @@ Di beberapa sistem operasi sebuah *file* dikatakan dengan serangkaian *bytes* ya
 
 Ketersediaan internet, kecepatan internet, *web application* dan produksi perangkat elektronik seperti *smartphone*, komputer, laptop dan *tablet* menciptakan ledakan data dengan pertumbuhan yang sangat cepat.
 
+<img src="F:\Marketkoin 2.0\The Alexandria\Drafts Mastering Golang\Belajar-Dengan-Jenius-Golang\ebooks\assets\FacebookActiveUser.png" style="zoom:75%;" />
+
+Dengan 2,4 milyar pengguna aktif pada kuarter kedua tahun 2019 *facebook* menjadi *platform* jejaring sosial (*social media*) terbesar didunia. Sebuah *platform social media*, dapat memproduksi berbagai jenis data seperti gambar (*image*), vidio (*video*), teks (*text*) dan suara (*voice*) dengan kecepatan yang sangat tinggi.
+
 ------------------------
 
