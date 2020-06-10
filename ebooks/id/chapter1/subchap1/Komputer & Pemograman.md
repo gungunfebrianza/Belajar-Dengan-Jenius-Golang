@@ -1,3 +1,7 @@
+# Belajar Dengan Jenius Golang
+
+## Penulis : Gun Gun Febrianza
+
 # *Subchapter* 1 – Komputer & Pemograman
 
 **Subchapter** 1 – **Objectives**
@@ -12,7 +16,7 @@
 
 \-    Mengenal Klasifikasi Bahasa Pemrograman
 
-
+--------------------------------
 
 Komputer dapat melakukan kalkulasi dan *logical decision* dengan kecepatan yang sangat tinggi melampaui kemampuan manusia. Rata-rata **Personal Computer (PC)** hari ini dapat mengeksekusi milyaran instruksi setiap detik, namun **Supercomputer** dapat mengeksekusi instruksi mencapai **Quadrillion** per detik atau setara dengan ribuan trilyun per detik. Sangat mencengangkan.
 
@@ -20,6 +24,9 @@ Salah satu *supercomputer* bernama **Tianhe-2** yang dikembangkan oleh *National
 
 **Flops** atau *floating point operations per second* adalah salah satu ukuran yang digunakan untuk mengetahui *performance* suatu komputer. Digunakan untuk melakukan *scientific computation* yang dapat membuka potensi bisnis bernilai ratusan juta *dollar*, inovasi dan revolusi industri yang dapat membawa suatu perusahaan atau negara membuka sejarah baru.
 
+--------------
+
 
 
  
+
