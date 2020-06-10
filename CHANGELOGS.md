@@ -2,7 +2,24 @@
 
 ## Belajar Dengan Jenius Golang - Gun Gun Febrianza
 
-### Change Logs
+### Change Logs - For Next Release
+
+#### 11-06-2020
+
+##### Theory
+
+- [x] Penambahan Kajian **Programming Paradigm**
+- [x] Penambahan Kajian **Imperative & Declarative Programming**
+
+##### Illustration
+
+- [ ] Penambahan Ilustrasi Sejarah **Programming Paradigm**
+
+#### 08-06-2020
+
+##### **Theory**
+
+- [x] Penambahan Kajian **Automatic Memory Management & Garbage Collection**
 
 #### 07-06-2020
 
