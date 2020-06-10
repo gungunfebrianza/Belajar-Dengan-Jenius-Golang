@@ -10,10 +10,11 @@
 
 - [x] Penambahan Kajian **Programming Paradigm**
 - [x] Penambahan Kajian **Imperative & Declarative Programming**
+- [x] Penambahan Kajian **Central Processing Unit** (CPU)
 
 ##### Illustration
 
-- [ ] Penambahan Ilustrasi Sejarah **Programming Paradigm**
+- [x] Penambahan Ilustrasi Sejarah **Programming Paradigm**
 
 #### 08-06-2020
 
