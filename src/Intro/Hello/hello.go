@@ -2,9 +2,17 @@ package main
 
 import (
 	"fmt"
-	"strings"
+	"strconv"
 )
 
 func main() {
-	fmt.Println("ba" + strings.Repeat("na", 6))
+
+	s := "33.77773"
+
+	if n, err := strconv.Atoi(s); err == nil {
+		fmt.Println(n)
+	} else {
+		fmt.Println(err)
+	}
+
 }
