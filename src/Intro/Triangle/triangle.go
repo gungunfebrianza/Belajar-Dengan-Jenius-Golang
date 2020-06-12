@@ -1,18 +1,22 @@
 package main
 
-import (
-	"fmt"
-	"strings"
-)
+import "fmt"
 
 func main() {
-	var rows = 10
-	for i := 1; i <= rows; i++ {
-		fmt.Println(strings.Repeat("na", rows))
-		for j := 1; j <= i; j++ {
-			fmt.Printf("%d ", j)
-		}
-		fmt.Println()
-	}
+	var rows, temp = 7, 1
 
+	for i := 0; i < rows; i++ {
+		for j := 1; j <= rows-i; j++ {
+			fmt.Print(" ")
+		}
+		for k := 0; k <= i; k++ {
+			if k == 0 || i == 0 {
+				temp = 1
+			} else {
+				temp = temp * (i - k + 1) / k
+			}
+			fmt.Printf(" %d", temp)
+		}
+		fmt.Println("")
+	}
 }
