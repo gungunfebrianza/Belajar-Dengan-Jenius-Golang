@@ -30,11 +30,27 @@ Kini ALU (*Arithmetic and Logic Unit*) dikembangkan sebagai *next logical unit* 
 
 ### *Central Processing Unit (CPU)*
 
-*CPU* (*Central Processing Unit*) akan memberi sinyal pada *input unit* saat informasi dalam *memory unit* dibutuhkan untuk diproses melakukan suatu kalkulasi dan memberikan sinyal kepada *output unit* saat informasi dalam *memory unit* siap untuk digunakan pada *output device*.
+Industri komputer menggunakan istilah terminologi **Central Processing Unit** pada awal tahun **1960**, namun secara tradisional terminologi **CPU** mengacu pada  sebutan untuk **processor**. 
 
-Kebanyakan komputer hari ini telah memiliki lebih dari satu *CPU* sehingga dapat melakukan banyak sekali operasi secara simultan. Sebuah *Multi-core processor* memiliki lebih dari satu *processor* dalam satu **IC Chip** tunggal. 
+Seluruh modern **CPU** adalah **Microprocessor** yang berarti mereka tersimpan di dalam sebuah **chip** tunggal **Integrated Circuit**. 
 
-Sebagai contoh *dual-core processor* artinya terdapat dua *processor* dalam 1 *IC Chip* dan *quad-core* artinya terdapat 4 *processor* dalam 1 *IC Chip*.
+**CPU** atau **Central Processing Unit** adalah sebuah otak dari komputer yang mengendalikan operasi berbagai komponen dalam sistem komputer. Sebuah **CPU** membutuhkan dua hal yaitu program atau aplikasi dan data. 
+
+Desain operasional dasar sebuah sistem komputer disebut dengan **architecture**. Seluruh arsitektur komputer yang ada saat ini tidak lepas dari seorang pioner komputer bernama **John von Neumann**. 
+
+Dalam sebuah sistem **Von Neumann** terdapat tiga komponen utama yaitu **central processing unit (CPU)**, **physical memory**, dan **input** atau **output (IO)**. 
+
+Dalam **Von Neumann Architecture (VNA)**, seperti **80x86 family** sebuah **CPU** adalah tempat dimana seluruh kegiatan komputasi dari sebuah program atau aplikasi dilakukan. Sebuah program atau aplikasi adalah kombinasi dari instruksi mesin dan data.
+
+Fungsi dasar **CPU** adalah melakukan **fetch**, **decode**, dan **execute** setiap instruksi yang berada di dalam **Read-only Memory (ROM)** ataupun **Random Access Memory (RAM)**. **CPU** akan melakukan **fetch** data dari sebuah memori eksternal dan mengirimkanya kedalam internal memory yang disebut dengan **register**. 
+
+Sebuah **CPU** memiliki kemampuan untuk memahami perintah yang disebut dengan **machine instruction** dan setiap **CPU** memiliki **instruction set architecture (ISA)** yang berbeda-beda. **Instruction Set Architecture** adalah spesifikasi formal sebuah CPU, bagaimana sebuah **CPU** berinteraksi dengan **memory**, dan kapabilitas **I/O**. 
+
+**CPU** (**Central Processing Unit**) akan memberi sinyal pada *input unit* saat informasi dalam *memory unit* dibutuhkan untuk diproses melakukan suatu kalkulasi dan memberikan sinyal kepada *output unit* saat informasi dalam *memory unit* siap untuk digunakan pada *output device*.
+
+Kebanyakan komputer hari ini telah memiliki lebih dari satu *CPU* sehingga dapat melakukan banyak sekali operasi secara simultan. Sebuah **Multi-core processor** memiliki lebih dari satu *processor* dalam satu **IC Chip** tunggal. 
+
+Sebagai contoh **dual-core processor** artinya terdapat dua *processor* dalam 1 *IC Chip* dan *quad-core* artinya terdapat 4 *processor* dalam **1** **IC Chip**.
 
 ### *Secondary Storage Unit*
 
