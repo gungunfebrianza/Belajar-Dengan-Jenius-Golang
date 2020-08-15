@@ -4,6 +4,18 @@
 
 ### Change Logs - For Next Release
 
+#### 16-08-2020
+
+##### Theory
+
+- [x] Penambahan Sub Kajian **Application Management** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **Security Management** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **I/O Management** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **Von Neumann Architecture (VNA)** pada kajian **Central Processing Unit (CPU)**
+- [x] Penambahan Sub Kajian **CPU Register** pada kajian **Central Processing Unit (CPU)**
+- [x] Penambahan Sub Kajian **Instruction Set Architecture (ISA)** pada kajian **Central Processing Unit (CPU)**
+- [x] Penambahan Sub Kajian **Multi-core Processor** pada kajian **Central Processing Unit (CPU)**
+
 #### 15-08-2020
 
 ##### Theory
