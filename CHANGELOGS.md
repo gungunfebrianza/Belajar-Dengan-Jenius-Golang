@@ -4,13 +4,26 @@
 
 ### Change Logs - For Next Release
 
+#### 15-08-2020
+
+##### Theory
+
+- [x] Penambahan Sub Kajian **OS Classification** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **Operating System Interface** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **Processor Management** pada kajian **Operating System**
+- [x] Penambahan Sub Kajian **Memory Management** pada kajian **Operating System**
+
+##### Illustration
+
+- [x] Penambahan Ilustrasi **Oculus Rift** pada kajian **Computer System**
+
 #### 11-06-2020
 
 ##### Theory
 
-- [x] Penambahan Kajian **Programming Paradigm**
-- [x] Penambahan Kajian **Imperative & Declarative Programming**
-- [x] Penambahan Kajian **Central Processing Unit** (CPU)
+- [x] Penambahan Kajian Baru **Programming Paradigm** 
+- [x] Penambahan Sub Kajian **Imperative & Declarative Programming** pada Kajian **Programming Paradigm** 
+- [x] Update Sub Kajian **Central Processing Unit** (CPU) pada kajian **Computer System**
 
 ##### Illustration
 
@@ -44,6 +57,6 @@
 
 ##### Illustration
 
-- [x] Penambahan Ilustrasi **Compiled Language** Pada **Subchapter** 1 - **Introduction Golang**
+- [x] Penambahan Ilustrasi **Compiled Language** pada kajian **Go Compiled Language**
 
 ##### 
